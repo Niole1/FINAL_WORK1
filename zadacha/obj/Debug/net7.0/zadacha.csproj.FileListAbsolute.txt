@@ -1,0 +1,15 @@
+D:\Git\final_work\zadacha\bin\Debug\net7.0\zadacha.exe
+D:\Git\final_work\zadacha\bin\Debug\net7.0\zadacha.deps.json
+D:\Git\final_work\zadacha\bin\Debug\net7.0\zadacha.runtimeconfig.json
+D:\Git\final_work\zadacha\bin\Debug\net7.0\zadacha.dll
+D:\Git\final_work\zadacha\bin\Debug\net7.0\zadacha.pdb
+D:\Git\final_work\zadacha\obj\Debug\net7.0\zadacha.csproj.AssemblyReference.cache
+D:\Git\final_work\zadacha\obj\Debug\net7.0\zadacha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\final_work\zadacha\obj\Debug\net7.0\zadacha.AssemblyInfoInputs.cache
+D:\Git\final_work\zadacha\obj\Debug\net7.0\zadacha.AssemblyInfo.cs
+D:\Git\final_work\zadacha\obj\Debug\net7.0\zadacha.csproj.CoreCompileInputs.cache
+D:\Git\final_work\zadacha\obj\Debug\net7.0\zadacha.dll
+D:\Git\final_work\zadacha\obj\Debug\net7.0\refint\zadacha.dll
+D:\Git\final_work\zadacha\obj\Debug\net7.0\zadacha.pdb
+D:\Git\final_work\zadacha\obj\Debug\net7.0\zadacha.genruntimeconfig.cache
+D:\Git\final_work\zadacha\obj\Debug\net7.0\ref\zadacha.dll
